@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Ask me about Python, SQL, Web Development, Full-Stack Development & Open Source**
 
-- 📫 How to reach me **shashank22.r@gmail.com**
+- 📫 How to reach me **kothavandlashashank@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1crQSwUtKyBzlo8MysELH_6dU9MnQtz3G/view?usp=drive_link](https://drive.google.com/file/d/1crQSwUtKyBzlo8MysELH_6dU9MnQtz3G/view?usp=drive_link)
 
